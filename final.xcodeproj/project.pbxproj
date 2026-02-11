@@ -29,9 +29,22 @@
 		DC601AE42F38AFC700C38044 /* finalUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = finalUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		DC601AF82F38AFD900C38044 /* Exceptions for "final" folder in "final" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Untitled.swift,
+			);
+			target = DC601ACA2F38AFC600C38044 /* final */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		DC601ACD2F38AFC600C38044 /* final */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				DC601AF82F38AFD900C38044 /* Exceptions for "final" folder in "final" target */,
+			);
 			path = final;
 			sourceTree = "<group>";
 		};
